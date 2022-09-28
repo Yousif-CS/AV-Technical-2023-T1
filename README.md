@@ -2,6 +2,8 @@
 
 An important software engineering skill to have is to be able to fix and resolve bugs within a code base. The common AV NMP task tests your ability to read and debug C++ compile time errors as well as resolve some runtime errors too. Attached to this project is a broken code base. It's your task to fix each of the bugs in it.
 
+We have provided useful resources at the bottom (particularly for some of you who might be unfamiliar with C++ and CMake)
+
 # Problems
 
 Currently the CMakeLists.txt is practically empty. It is your task to add the necessary dependencies to file so that you are able to build an executable that compiles main.cpp. Below I have outlined some of the questions in the code base.
