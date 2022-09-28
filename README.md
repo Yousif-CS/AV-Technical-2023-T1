@@ -23,7 +23,7 @@ Let the AV team know if there are any problems. Best of luck.
 
 # Some useful resources
 
-https://www.learncpp.com/
+https://www.learncpp.com/ (Use this as a resource for this unfamiliar with C++)
 
 https://en.cppreference.com/w/cpp/language
 
