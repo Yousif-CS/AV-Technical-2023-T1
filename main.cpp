@@ -87,9 +87,9 @@ int main()
     }
 
     // Question 4 Fix the compiler errors and race conditions
-    // Convert the testerFunction() into a google test
     // https://stackoverflow.com/questions/34510/what-is-a-race-condition
     // Think about how you can use a mutex to solve this
+    // Convert the testerFunction() into a google test -- EXTENSION TASK
     int val = 0;
     for(int k = 0; k < 1000; k++)
     {
