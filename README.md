@@ -1,6 +1,6 @@
 # AV Technical
 
-### **Submission Date**: 09/10/2022 11:59PM
+### **Submission Date**: 20/10/2022 11:59PM
 ### **Submission Link**: https://forms.gle/dhPQnyyGQHbrUVT66
 
 An important software engineering skill to have is to be able to fix and resolve bugs within a code base. The common AV NMP task tests your ability to read and debug C++ compile time errors as well as resolve some runtime errors too. Attached to this project is a broken code base. It's your task to fix each of the bugs in it.
